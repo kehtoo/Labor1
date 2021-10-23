@@ -42,13 +42,13 @@ namespace Table
                 Console.WriteLine("Фильм:");
                 string name = Console.ReadLine();
 
-                Console.WriteLine("Режиссер");
+                Console.WriteLine("Режиссер:");
                 string rez = Console.ReadLine();
 
-                Console.WriteLine("Год выпуска");
+                Console.WriteLine("Год выпуска:");
                 int year = Int32.Parse(Console.ReadLine());
 
-                Console.WriteLine("Тип фильма (Д - драма, К – комедия, М – мелодрама, Б – боевик, А – мультфильм)");
+                Console.WriteLine("Тип фильма: (Д - драма, К – комедия, М – мелодрама, Б – боевик, А – мультфильм)");
                 string Type = Console.ReadLine();
 
                 Item value = new(name, rez, year, Type);
@@ -80,7 +80,7 @@ namespace Table
                 item.Print();
                 Console.WriteLine(new String('-', 76));
             }
-            Console.WriteLine($"{"|Перечисляемый тип: Z - зерновые, B - бобовые",-75}|");
+            Console.WriteLine($"{"|Тип фильма (Д - драма, К – комедия, М – мелодрама, Б – боевик, А – мультфильм)",-75}|");
             Console.WriteLine(new String('-', 76));
         }
 
