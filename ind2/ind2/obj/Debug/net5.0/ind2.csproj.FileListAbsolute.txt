@@ -1,0 +1,16 @@
+C:\Users\Кирилл\source\repos\ind2\ind2\bin\Debug\net5.0\ind2.exe
+C:\Users\Кирилл\source\repos\ind2\ind2\bin\Debug\net5.0\ind2.deps.json
+C:\Users\Кирилл\source\repos\ind2\ind2\bin\Debug\net5.0\ind2.runtimeconfig.json
+C:\Users\Кирилл\source\repos\ind2\ind2\bin\Debug\net5.0\ind2.runtimeconfig.dev.json
+C:\Users\Кирилл\source\repos\ind2\ind2\bin\Debug\net5.0\ind2.dll
+C:\Users\Кирилл\source\repos\ind2\ind2\bin\Debug\net5.0\ref\ind2.dll
+C:\Users\Кирилл\source\repos\ind2\ind2\bin\Debug\net5.0\ind2.pdb
+C:\Users\Кирилл\source\repos\ind2\ind2\obj\Debug\net5.0\ind2.csproj.AssemblyReference.cache
+C:\Users\Кирилл\source\repos\ind2\ind2\obj\Debug\net5.0\ind2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\source\repos\ind2\ind2\obj\Debug\net5.0\ind2.AssemblyInfoInputs.cache
+C:\Users\Кирилл\source\repos\ind2\ind2\obj\Debug\net5.0\ind2.AssemblyInfo.cs
+C:\Users\Кирилл\source\repos\ind2\ind2\obj\Debug\net5.0\ind2.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\repos\ind2\ind2\obj\Debug\net5.0\ind2.dll
+C:\Users\Кирилл\source\repos\ind2\ind2\obj\Debug\net5.0\ref\ind2.dll
+C:\Users\Кирилл\source\repos\ind2\ind2\obj\Debug\net5.0\ind2.pdb
+C:\Users\Кирилл\source\repos\ind2\ind2\obj\Debug\net5.0\ind2.genruntimeconfig.cache
