@@ -32,9 +32,10 @@ namespace lab1
             h = int.Parse(Console.ReadLine());
             m = int.Parse(Console.ReadLine());
             s = int.Parse(Console.ReadLine());
-            if (s > 60 | m > 60 | h > 12)
+            if (s > 60 | m > 60 | h > 12 | s < 0 | m < 0| h < 0)
             {
                 Console.WriteLine("Вы вышли за лимит допустимых значений");
+            }
             }
             else
             {
